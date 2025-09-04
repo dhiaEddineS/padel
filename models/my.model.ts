@@ -20,4 +20,5 @@ export interface Match {
     scoreDetails?: string;
     winners: string[];
     comment?: string;
+
 }
